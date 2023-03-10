@@ -1,4 +1,4 @@
-import posts from "./Posts"
+import posts from "./posts"
 import blockContent from "./blockContent"
 import comment from "./comment"
 import category from "./category"
