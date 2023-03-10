@@ -1,2 +1,6 @@
-import Posts from "./Posts"
-export const schemaTypes = [Posts]
+import posts from "./Posts"
+import blockContent from "./blockContent"
+import comment from "./comment"
+import category from "./category"
+import user from "./user"
+export const schemaTypes = [user, posts, comment, category, blockContent]
